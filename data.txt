@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 1999,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 2,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 2999,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 3,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 3999,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 4,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 4999,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 5,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 999,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 6,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 2999,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 7,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 1999,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 8,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 699,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 9,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 799,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 10,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 1099,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 11,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 1199,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 12,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 1299,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 13,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 1399,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 14,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 1499,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 15,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 15999,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 16,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 17999,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 18,
+    "name": "小米9 SE",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5652bd7a2f8bd6daaa1dd4b5c3c2e9b3.jpg",
+    "price": 18999,
+    "slogan": "新品看点：弹出式肩键｜真实机械感反馈",
+    "totalMount": 1,
+    "totolPrice": 0
+  },
+  {
+    "id": 19,
+    "name": "Redmi K40 游戏增强版",
+    "img": "https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/61454401f855cf5ed64747a6ac04bae5.jpg",
+    "price": 19999,
+    "slogan": "新品看点：年度旗舰骁龙870，新一代 E4 AMOLED旗舰直屏",
+    "totalMount": 1,
+    "totolPrice": 0
+  }
+]
